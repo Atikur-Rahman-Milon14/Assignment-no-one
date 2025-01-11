@@ -69,7 +69,7 @@ nav li a button{
 
 
 /* Task Two */
-#milon{
+.milon{
     color: rgb(14, 14, 14);
     font-family: Fira Sans;
     font-size: 40px;
@@ -81,7 +81,7 @@ nav li a button{
     max-width: 1280px;
     margin: 80px auto 25px auto;
 }
-#second-milon{
+.second-milon{
     color: rgba(14, 14, 14, 0.7);
     font-family: Fira Sans;
     font-size: 16px;
@@ -154,4 +154,159 @@ nav li a button{
         border: none;
     }
 
-    
+/* Task three    */
+#block{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    padding: 48px;
+    margin: 0px 85px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    max-width: 1280px;
+    margin: 35px auto 25px auto;
+}
+.banner-php-pic{
+    width: 408px;
+    border-radius: 24px;
+
+
+}
+.bunn{
+    max-width: 600px;
+}
+.bun{
+    width: 400px;
+    border-radius: 24px;
+    margin-top: 25px;
+}
+
+
+
+.bannerrr-container{
+display: flex;
+justify-content: space-between;
+margin-top: 25px;
+padding: 48px;
+margin: 0px 85px;
+box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+align-items: center;
+max-width: 1280px;
+margin: 35px auto 25px auto;
+}
+.banner-ccontent{
+    max-width: 600px;
+}
+.new{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.btn-mm{
+    border-radius: 8px;
+    justify-content: center;
+    background: rgb(0, 106, 80);
+    width: 122px;
+        height: 41px;
+        border-radius: 8px;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 19px;
+        border: none;
+        color: rgb(255, 255, 255);
+}
+
+.neu{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 32px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: left;
+}
+/* Task Four */ 
+#mouse{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+}
+#keyboard{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+padding: 0px 450px;
+}
+.btn-edit{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin: 12px 0px;
+    justify-content: flex-start;
+    gap: 28;
+    padding: 40px;
+    border-radius: 16px;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    position: static;
+    text-align: center;
+}
+#clr{
+    background: rgb(198, 228, 214);
+}
+.line{
+    text-align: center;
+}
+#last{
+    color: rgba(14, 14, 14, 0.3);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+background-color: rgb(255, 255, 255); 
+/* background-color: aquamarine; */
+box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+width: 1032px;
+height: 30px;
+margin: 32px 0px;
+justify-content: flex-start;
+align-items: center;
+max-width: 1280px;
+    margin: 35px auto 25px auto;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+
+}
+.lll{
+    text-align: center;
+}
+#new-button{
+    width: 122px;
+        height: 41px;
+        border-radius: 8px;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 19px;
+        color: rgb(255, 255, 255); 
+        background: rgb(0, 106, 80);
+        border: none;
+}
